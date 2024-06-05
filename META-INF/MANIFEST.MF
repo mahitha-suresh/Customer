@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Customer
+Bundle-SymbolicName: Customer
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: Customer
+Export-Package: com.example,
+ com.example.controller,
+ com.example.entity,
+ com.example.repository,
+ com.example.service
